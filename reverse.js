@@ -1,2 +1,2 @@
-module.export = str -> str.split('').reverse()
+module.export = str => str.split('').reverse()
 
